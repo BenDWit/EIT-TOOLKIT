@@ -1,2 +1,2 @@
 # EIT-TOOLKIT
-Collection of tools for sysadmins and cybersecurity pro's
+Collection of tools for sysadmins and cybersecurity purposes
